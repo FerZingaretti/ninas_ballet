@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.header{
+    background-color: black;
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    align-items: center;
+}
+.main{
+    background-color: rgb(34, 30, 44);
+    color: beige;
+}
+.img{
+    width: 100%;
+}
+.footer{
+    background-color: black;
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
